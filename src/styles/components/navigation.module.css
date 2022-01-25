@@ -1,0 +1,15 @@
+.navbar {
+    @apply h-17.5 flex items-center justify-between border-b border-emerald-100 overflow-hidden;
+}
+
+.nav {
+    @apply text-sm font-light text-gray-500 px-4;
+}
+
+.navLink {
+    @apply p-2 inline hover:bg-green-300 rounded-sm;
+}
+
+.navList {
+    @apply flex items-center justify-end;
+}

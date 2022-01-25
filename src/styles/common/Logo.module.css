@@ -1,0 +1,11 @@
+.logoMark {
+    @apply transition-fade duration-300 inline-block;
+}
+
+.logoMarkPart1 {
+    @apply w-64.81px;
+}
+
+.logoMarkPart2 {
+    @apply w-48.61px;
+}
